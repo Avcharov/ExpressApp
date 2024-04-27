@@ -1,0 +1,11 @@
+{
+  "development": {
+    "dialect": "mssql",
+    "server": "localhost",
+    "port": 1433,
+    "username": "admin",
+    "password": "Password2#",
+    "database": "pdfsharp_DB",
+    "trustServerCertificate": true	
+  }
+}
